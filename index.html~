@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>JavaScript sample</title>
+</head>
+<body>
+  <script type="text/javascript" src="sample.js"></script>
+</body>
+</html>
